@@ -25,6 +25,6 @@
 ## 坑表
 | id | BigInt |自增id |
 | --- | --- | --- |
-| tid | Integer | 坑id |
+| tid | BigInt | 坑id |
 | status | Integer | 0：开 1：关 |
 | gender | Integer | 0：男 1：女|
